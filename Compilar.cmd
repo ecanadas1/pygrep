@@ -1,0 +1,1 @@
+flet pack DumpLog.py --name "RTPDumpLog" --icon "assets/icon.ico" --add-data "locales;locales" --add-data "assets;assets"
