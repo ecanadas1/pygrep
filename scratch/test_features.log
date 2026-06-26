@@ -1,0 +1,7 @@
+{"timestamp": "2026-06-03T10:00:00Z", "level": "info", "message": "User logged in", "user": {"id": 1, "name": "Alice"}}
+{"timestamp": "2026-06-03T10:00:05Z", "level": "error", "message": "Failed to connect to database", "status": 500}
+{"timestamp": "2026-06-03T10:01:10Z", "level": "info", "message": "Page views loaded", "user": {"id": 2, "name": "Bob"}}
+{"timestamp": "2026-06-03T10:01:25Z", "level": "warn", "message": "Slow disk writes detected", "status": 429}
+{"timestamp": "2026-06-03T10:02:15Z", "level": "error", "message": "Internal Server Error", "status": 503}
+Esta linea no es un JSON estructurado
+{"timestamp": "2026-06-03T10:02:30Z", "level": "error", "message": "Bad gateway", "status": 502}

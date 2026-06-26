@@ -1,0 +1,24 @@
+# Ejemplo de salida:
+# 45:ERROR: Connection failed
+# 46-Retrying in 5 second...
+# 47-Attempt 1 of 3
+# 48-Waiting for response
+# Ejemplo de salída:
+# 45:ERROR: Connection failed
+# 46-Retrying in 5 seconds...
+# 47-Attempt 1 of 3
+# 48-Waiting for response
+# 49:ERRORES: Connection failed
+# 50-Retrying in 5 seconds...
+# 51-Attempt 1 of 3
+# 52-Waiting for response
+
+ejemplo de error:
+
+error="psr2"
+error => "psr2"
+error = 'psr2'
+error=> en un lugar psr02
+app=>'psr02'
+psr2
+
